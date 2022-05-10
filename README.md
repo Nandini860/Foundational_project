@@ -7,7 +7,7 @@ Under The Hotel Management System (HMS) Each Group will have below moduels like
 3. Customer Module - This module will be developed by 1 associates in group 
 4. Report Module - This module will be developed by 1 associates in group
 
-# TECHNOLOGGIES USED
+# TECHNOLOGIES USED
   - TECH-1 : JAVA VERSION 1.8
   - TECH-2 : SQL VERSION 8.0.28
   - TECH-2 : JDBC VERSION 8.0.28
